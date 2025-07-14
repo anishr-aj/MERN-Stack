@@ -1,0 +1,12 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+@media(width=400px) {
+    div {
+        background-color: yellow;
+        height: 200px;
+        width: 200px;
+    }
+}

@@ -1,0 +1,17 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+@media(max-width=200px) {
+    div {
+        height: 200px;
+        width: 200px;
+    }
+}
+@media(min-width=205px) {
+    div {
+        height: 300px;
+        width: 300px;
+    }
+}

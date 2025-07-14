@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(10, 10, 11);
+    color: red;
+}
+div {
+    height:100px;
+    width:100px;
+    border: 2px solid rgb(220, 46, 15);
+    display: inline;
+}
+id {
+    height :100px;
+    width:100px;
+    background-color: white;
+}

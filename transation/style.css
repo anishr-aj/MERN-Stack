@@ -1,0 +1,14 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+   
+    /* transition-duration: 2s;
+    transition-delay: 2s;
+    transition-timing-function: 3s;
+     */
+     transition: all 2s steps(5) 3s;
+}
+div:hover {
+    background-color: green;
+}

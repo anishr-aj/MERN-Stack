@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.container {
+    border: 2px solid blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100px 100px 100px 100px;
+   
+    
+}
+#a {
+    height: 70px;
+    width: 70px;
+    border: 2px solid red;
+    
+}
+
+#b {
+    
+}
